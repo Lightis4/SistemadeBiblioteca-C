@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+
+livros.txt
+emprestimos.txt
+
+*.tmp
+*.log
+
+.vscode/
